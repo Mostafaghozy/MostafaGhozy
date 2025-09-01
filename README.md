@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋, I'm Mostafa  
 
-<!--
-**Mostafaghozy/MostafaGhozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer** with a passion for building clean, scalable, and user-friendly mobile applications.  
+Specialized in **Firebase, Supabase, REST APIs, and Clean Architecture**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies  
+- **Flutter & Dart**  
+- **Firebase (Auth, Firestore, Storage)**  
+- **Supabase (Storage, APIs)**  
+- **State Management (Bloc / Cubit / Provider)**  
+- **Clean Architecture & SOLID Principles**  
+- **Git & GitHub**  
+- **Payment Integrations**  
+
+---
+
+## 📌 Featured Projects  
+### 📱 [Mediva – Graduation Project](https://github.com/Mostafaghozy/Chronic_Diseases.git)  
+A mobile app focusing on chronic diseases (starting with Diabetes)  
+- Flutter & Dart  
+- REST APIs integration  
+ 
+
+### 🎯 [Instagram](https://github.com/Mostafaghozy/Instagram-main.git)  
+A mobile application inspired by **Instagram**, built with **Flutter & Dart**.  
+The app allows users to share stories, posts, and interact with others in real-time.
+- Flutter & Dart 
+- Firebase (Auth, Firestore)  
+- Supabase (Storage, APIs) 
+
+
+### 🎬 [Netflix Movie App](https://github.com/Mostafaghozy/netflix_movie_app.git)  
+A mobile application inspired by **Netflix**, built with **Flutter & Dart**.  
+The app fetches movies dynamically from an external API .  
+- Flutter & Dart  
+- REST API (Movies Data)  
+
+
+### 💳  [Payment App](https://github.com/Mostafaghozy/payment_app.git)  
+A mobile application for handling payments — likely includes features like payment processing, transaction history, or wallet functions.  
+- Flutter & Dart  
+- Possibly integrates a **Payments API** or backend service for secure transactions  
+
+---
+
+## 🌐 Connect with me  
+- 📧 Email: **mustafaa.mohameddd@gmail.com**  
+- 💼 [LinkedIn](www.linkedin.com/in/mostafa-ghozy-4b0a6a222)  
+- 🐙 [GitHub](https://github.com/Mostafaghozy)  
+
+---
+
+⭐️ From [Mostafa](https://github.com/Mostafaghozy)
