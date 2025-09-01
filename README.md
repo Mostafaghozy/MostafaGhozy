@@ -47,7 +47,7 @@ A mobile application for handling payments — likely includes features like pay
 
 ## 🌐 Connect with me  
 - 📧 Email: **mustafaa.mohameddd@gmail.com**  
-- 💼 [LinkedIn](www.linkedin.com/in/mostafa-ghozy-4b0a6a222)  
+- 💼 [LinkedIn](www.linkedin.com/in/mostafa-ghozy-4b0a6a222/)  
 - 🐙 [GitHub](https://github.com/Mostafaghozy)  
 
 ---
