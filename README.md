@@ -11,8 +11,8 @@ Specialized in **Firebase, Supabase, REST APIs, and Clean Architecture**.
 - **Supabase (Storage, APIs)**  
 - **State Management (Bloc / Cubit / Provider)**  
 - **Clean Architecture & SOLID Principles**  
-- **Git & GitHub**  
 - **Payment Integrations**  
+- **Git & GitHub**  
 
 ---
 
