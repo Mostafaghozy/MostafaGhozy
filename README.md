@@ -31,7 +31,7 @@ The app allows users to share stories, posts, and interact with others in real-t
 - Supabase (Storage, APIs) 
 
 
-### 🎬 [Netflix Movie App](https://github.com/Mostafaghozy/netflix_movie_app.git)  
+### 🎬 [Netflix](https://github.com/Mostafaghozy/netflix_movie_app.git)  
 A mobile application inspired by **Netflix**, built with **Flutter & Dart**.  
 The app fetches movies dynamically from an external API .  
 - Flutter & Dart  
