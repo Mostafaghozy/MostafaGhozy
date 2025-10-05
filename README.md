@@ -50,6 +50,4 @@ A mobile application for handling payments — likely includes features like pay
 - 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-ghozy-4b0a6a222/)  
 - 🐙 [GitHub](https://github.com/Mostafaghozy)  
 
----
 
-⭐️ From [Mostafa](https://github.com/Mostafaghozy)
