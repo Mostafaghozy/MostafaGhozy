@@ -1,16 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Mostafa+Ghozy!;Flutter+Developer+💙;Passionate+about+Clean+Architecture+🚀;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+BLoC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Mostafa+Ghozy!;Flutter+Developer+💙;Passionate+about+Clean+Architecture+🚀;Firebase+%7C+Supabase+%7C+Stripe+%7C+PayPal" alt="Typing SVG" />
 </p>
+
 
 ---
 
 # 👨‍💻 About Me  
 
-💡 **Flutter Developer** focused on building **scalable**, **clean**, and **user-centric** mobile apps.  
-🎯 Specialized in **Firebase**, **Supabase**, **REST APIs**, and **Clean Architecture**.  
-🧱 Advocate of **SOLID principles**, **state management**, and **modern design patterns**.  
-📱 Passionate about creating apps that blend **functionality** with **beautiful UI**.
+💡 **Flutter Developer** dedicated to building **scalable**, **secure**, and **beautiful** mobile apps.  
+🚀 Experienced in **Clean Architecture**, **State Management (BLoC/Cubit)**, and **SOLID principles**.  
+💳 Specialized in **Payment Integrations** using **PayPal** & **Stripe**.  
+☁️ Skilled with **Firebase**, **Supabase**, and modern **REST APIs**.  
+📱 Focused on delivering apps with **clean UI/UX** and **robust performance**.
 
 ---
 
@@ -42,11 +44,18 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### 💳 Payment Integrations  
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
 ### 🧰 Tools & Design  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -54,19 +63,24 @@
 
 | Project | Description | Tech |
 |---------|--------------|------|
-| [📱 Mediva – Graduation Project](https://github.com/Mostafaghozy/Chronic_Diseases.git) | A mobile app focusing on **chronic diseases** (starting with **Diabetes**). | Flutter • REST API • Clean UI |
+| [📱 Mediva – Graduation Project](https://github.com/Mostafaghozy/Chronic_Diseases.git) | Mobile app for **chronic diseases** (Diabetes). | Flutter • REST API • Clean UI |
 | [🎯 Instagram Clone](https://github.com/Mostafaghozy/Instagram-main.git) | Full-featured **Instagram-like app** with stories, posts & realtime data. | Flutter • Firebase • Supabase |
 | [🎬 Netflix Clone](https://github.com/Mostafaghozy/netflix_movie_app.git) | Movie streaming app fetching dynamic data from an API. | Flutter • REST API |
-| [💳 Payment App](https://github.com/Mostafaghozy/payment_app.git) | Secure **payment app** with transactions and wallet. | Flutter • Payments API |
+| [💳 Payment App](https://github.com/Mostafaghozy/payment_app.git) | Secure **payment app** with **Stripe** & **PayPal** integration. | Flutter • Stripe • PayPal • REST API |
+
+---
+
+## 🎯 Currently Learning  
+- Advanced **Stripe & PayPal APIs**  
+- **CI/CD** pipelines for Flutter (GitHub Actions)  
+- **Unit & Widget Testing** in Flutter  
+- **App Performance Optimization**
 
 ---
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafaghozy&show_icons=true&theme=dark&hide_border=false&count_private=true" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mostafaghozy&theme=dark&hide_border=false" height="160px"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaghozy&layout=compact&theme=dark&hide_border=false" height="160px"/>
@@ -74,13 +88,6 @@
 
 ---
 
-## 📈 Visitors  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mostafaghozy&icon=0&color=0" alt="Visitor Count"/>
-</p>
 
----
 
-<p align="center">
-  <b>✨ Building beautiful experiences, one Flutter widget at a time ✨</b>
-</p>
+
