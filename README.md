@@ -63,9 +63,9 @@
 
 | Project | Description | Tech |
 |---------|--------------|------|
-| [📱 Mediva – Graduation Project](https://github.com/Mostafaghozy/Chronic_Diseases.git) | Mobile app for **chronic diseases** (Diabetes). | Flutter • REST API • Clean UI |
-| [🎯 Instagram Clone](https://github.com/Mostafaghozy/Instagram-main.git) | Full-featured **Instagram-like app** with stories, posts & realtime data. | Flutter • Firebase • Supabase |
-| [🎬 Netflix Clone](https://github.com/Mostafaghozy/netflix_movie_app.git) | Movie streaming app fetching dynamic data from an API. | Flutter • REST API |
+| [📱 Mediva ](https://github.com/Mostafaghozy/Chronic_Diseases.git) | Mobile app for **chronic diseases** (Diabetes). | Flutter • REST API • Clean UI |
+| [🎯 Instagram ](https://github.com/Mostafaghozy/Instagram-main.git) | Full-featured **Instagram-like app** with stories, posts & realtime data. | Flutter • Firebase • Supabase |
+| [🎬 Netflix](https://github.com/Mostafaghozy/netflix_movie_app.git) | Movie streaming app fetching dynamic data from an API. | Flutter • REST API |
 | [💳 Payment App](https://github.com/Mostafaghozy/payment_app.git) | Secure **payment app** with **Stripe** & **PayPal** integration. | Flutter • Stripe • PayPal • REST API |
 
 ---
