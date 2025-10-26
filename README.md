@@ -78,15 +78,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaghozy&layout=compact&theme=dark&hide_border=false" height="160px"/>
-</p>
-
----
 
 
 
