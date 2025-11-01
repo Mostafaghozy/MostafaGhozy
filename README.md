@@ -79,28 +79,4 @@
 - **App Performance Optimization**  
 - **Microservices Architecture**
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafaghozy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafaghozy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaghozy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mostafaghozy&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐ If you like my work, consider starring my repositories!</i>
-</p>
