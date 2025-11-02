@@ -35,7 +35,7 @@
 
 ### 💻 Languages & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,python,js" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python" />
 </p>
 
 ### ☁️ Backend & Cloud  
