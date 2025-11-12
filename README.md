@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Mostafa+Ghozy!;Flutter+Developer+💙;Passionate+about+Clean+Architecture+🚀;Firebase+%7C+Supabase+%7C+Stripe+%7C+PayPal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Mostafa+Ghozy!;Flutter+Developer+👨‍💻;Passionate+about+Clean+Architecture+🚀;Firebase+%7C+Supabase+%7C+REST+APIs%7C+Payment+Integrations" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 💡 **Flutter Developer** dedicated to building **scalable**, **secure**, and **beautiful** mobile apps.  
 🚀 Experienced in **Clean Architecture**, **State Management (BLoC/Cubit)**, and **SOLID principles**.  
-💳 Specialized in **Payment Integrations** using **PayPal** & **Stripe**.  
+💳 Specialized in **Payment Integrations**.  
 ☁️ Skilled with **Firebase**, **Supabase**, and modern **REST APIs**.  
 📱 Focused on delivering apps with **clean UI/UX** and **robust performance**.
 
