@@ -65,7 +65,7 @@
 
 | Project | Description | Tech |
 |---------|--------------|------|
-| [🛒 Fashion](https://github.com/Mostafaghozy/fashion_App.git) | Mobile app for **E-Commerce**. | Flutter • REST API • Clean UI • Stripe • Paypal  |
+| [🛒 zimro](https://github.com/Mostafaghozy/zimro.git) | Mobile app for **E-Commerce**. | Flutter • REST API • Clean UI • Stripe • Paypal  |
 | [📱 Mediva](https://github.com/Mostafaghozy/Chronic_Diseases.git) | Mobile app for **chronic diseases** (Diabetes). | Flutter • REST API • Clean UI • Ai_Integration |
 | [🎯 Instagram](https://github.com/Mostafaghozy/Instagram-main.git) | Full-featured **Instagram-like app** with stories, posts & realtime data. | Flutter • Firebase • Supabase |
 | [🎬 Netflix](https://github.com/Mostafaghozy/netflix_movie_app.git) | Movie streaming app fetching dynamic data from an API. | Flutter • REST API |
